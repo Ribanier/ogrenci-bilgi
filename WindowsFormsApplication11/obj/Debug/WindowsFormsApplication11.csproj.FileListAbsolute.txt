@@ -1,0 +1,199 @@
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+c:\users\spide\documents\visual studio 2013\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+C:\Users\spide\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\msı\Desktop\proje sistemi\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\msı\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\msı\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\msı\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+F:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\spide\Desktop\PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+F:\PROJE ÖDEVİ1(tasarım cop)\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.silinendosyalar.resources
+D:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.kayitsilme.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.kayitsilme.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.silinendosyalar.resources
+F:\PROJE ÖDEVİ1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+F:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+F:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+F:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.kayitsilme.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.silinendosyalar.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.kayitsilme.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.silinendosyalar.resources
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.kayitsilme.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.silinendosyalar.resources
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\spide\Desktop\1132 -A11BTA GAMZE KARYAĞDI PROJE ÖDEVİ en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\spide\Desktop\en en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\spide\Desktop\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.kayitsilme.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.silinendosyalar.resources
+C:\Users\spide\Desktop\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.giris.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.kayitsilme.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrencibilgi.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogrenciekle.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ogretmenpaneli.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.projegirisi.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.silinendosyalar.resources
+C:\Users\sadik\Desktop\masaustu\masaustu\otomasyonlar\en en son hali\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
